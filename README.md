@@ -1,6 +1,8 @@
 ## KHOON's Repository 👋
 
-#### 작성예정...
+#### 동행모집 플랫폼 ( Culture-Mate )
+https://github.com/CultureM8/culture-mate <br />
+...작업중...
 
 <!--
 **pugi-kh/pugi-kh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
