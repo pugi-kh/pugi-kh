@@ -1,7 +1,10 @@
 # KHOON's Repository 👋
 
-## 동행모집 플랫폼 ( Culture-Mate )
-Repository : [https://github.com/CultureM8/culture-mate](https://github.com/orgs/CultureM8/repositories) <br />
+## 동행모집 플랫폼 ( Culture-Mate )  [![CultureMate](https://img.shields.io/badge/Organization-CultureM8-blue?style=for-the-badge&logo=github)](https://github.com/CultureM8)
+## 📦 Repositories
+[![Backend Repo](https://github-readme-stats.vercel.app/api/pin/?username=CultureM8&repo=culture-mate-BACK&theme=default)](https://github.com/CultureM8/culture-mate-BACK)
+[![Frontend Repo](https://github-readme-stats.vercel.app/api/pin/?username=CultureM8&repo=culture-mate-FRONT&theme=default)](https://github.com/CultureM8/culture-mate-FRONT)
+
 
 #### 프로젝트 계획 동기
 사람들은 저마다 다양한 취미와 관심사를 가지고 있습니다. 그리고 내 주변 사람들이 항상 나와 같은 관심사를 가질 것이라는 보장은 없습니다. 영화를 보더라도 친구들과는 다른 장르를 선호할 수도 있고, 그러다보면 나랑 같은 관심사를 가지고 있는 사람과 함께 이벤트들을 즐기고 싶다는 생각이 들 수 있겠다 생각했습니다.
