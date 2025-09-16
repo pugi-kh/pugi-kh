@@ -47,6 +47,5 @@
   | **항목** | **사용 기술** |
   | --- | --- |
   | 언어 | Python |
-  | CLI 도구 | argparse, os, shutil |
   | GUI 프레임워크 | tkinter |
   | 버전 관리 | Git / GitHub |
