@@ -2,18 +2,26 @@
 
   ## 🎯 주요 프로젝트
 
-  ## 동행모집 플랫폼 ( Culture-Mate )  [![CultureMate](https://img.shields.io/badge/Organization-CultureM8-blue?style=for-the-badge&logo=github)](https://github.com/CultureM8)
+  ### 동행모집 플랫폼 ( Culture-Mate )
+<div>
 
-  ### 📦 Repositories
+<a href="https://github.com/CultureM8">
+  <div align="left">
+    <img width="500" height="120" src="https://img.shields.io/badge/🏠_CultureMate_Team_Profile_(README)-999999?style=for-the-badge&logo=github&logoColor=white&labelColor=blue"/>
+  </div>
+</a>
+
+</div>
+
+  #### 📦 Repositories
   [![Backend Repo](https://github-readme-stats.vercel.app/api/pin/?username=CultureM8&repo=culture-mate-BACK&theme=default)](https://github.com/CultureM8/culture-mate-BACK)
   [![Frontend Repo](https://github-readme-stats.vercel.app/api/pin/?username=CultureM8&repo=culture-mate-FRONT&theme=default)](https://github.com/CultureM8/culture-mate-FRONT)
 
+<details>
+  <summary>더보기</summary>
+
   #### 프로젝트 계획 동기
-  사람들은 저마다 다양한 취미와 관심사를 가지고 있습니다. 그리고 내 주변 사람들이 항상 나와 같은 관심사를 가질
-  것이라는 보장은 없습니다. 영화를 보더라도 친구들과는 다른 장르를 선호할 수도 있고, 그러다보면 나랑 같은
-  관심사를 가지고 있는 사람과 함께 이벤트들을 즐기고 싶다는 생각이 들 수 있겠다 생각했습니다.
-  그래서 관심사가 같은 사람들끼리 다양한 이벤트들을 함께 즐길 수 있도록 동행 모집 플랫폼 **"컬쳐메이트"**를
-  만들어 이런 사람들을 연결해 주고자 하였습니다.
+  사람들은 각자 다양한 취미와 관심사를 가지고 있지만, **주변인들과 관심사가 일치하지 않아** 함께하기 어려운 경우가 많습니다.  소모임처럼 **정기적으로 모이는 구조는 부담**이 크고, 가볍게 즐길 동행을 찾는 것도 쉽지 않습니다.  이러한 불편함을 해결하기 위해, 관심사가 같은 사람들이 **원할 때마다 부담 없이** 함께할 수 있는 **동행 모집 플랫폼** “**컬처메이트**”를 개발했습니다.
 
   #### 기술스택
   | **항목** | **사용 기술 (버전정보)** |
@@ -23,14 +31,20 @@
   | 배포 | AWS(예정) |
   | 버전 관리 | Git / GitHub |
   | 협업 | Notion / Discord / Zep |
+</details>
+
+
 
   ---
 
-  ## 파일 정리 도구 ( MerFi & SorFi )
-
-  ### 📦 Repositories
-  [![MerFi](https://github-readme-stats.vercel.app/api/pin/?username=pugi-kh&repo=MerFi&theme=default)](https://github.com/pugi-kh/MerFi)
+  ### 파일 정리 도구 ( MerFi & SorFi )
+  
+  #### 📦 Repositories
   [![SorFi_GUI](https://github-readme-stats.vercel.app/api/pin/?username=pugi-kh&repo=SorFi_GUI&theme=default)](https://github.com/pugi-kh/SorFi_GUI)
+  [![MerFi](https://github-readme-stats.vercel.app/api/pin/?username=pugi-kh&repo=MerFi&theme=default)](https://github.com/pugi-kh/MerFi)
+
+<details>
+  <summary>더보기</summary>
 
   #### 프로젝트 개요
   파일명을 기반으로 자동으로 폴더를 생성하고 파일을 정리해주는 도구입니다.
@@ -49,3 +63,5 @@
   | 언어 | Python |
   | GUI 프레임워크 | tkinter |
   | 버전 관리 | Git / GitHub |
+
+</details>
